@@ -1,0 +1,17 @@
+.i-header{
+    color:white;
+   
+    padding-left: 60px;
+    padding-top: 30px;
+    font-size: 11px;
+
+}
+.i-header h1 {
+    cursor: pointer;
+    color: white;
+    font-family: 'Mochiy Pop One', sans-serif
+    
+}
+.i-header  a{
+    text-decoration:none;
+}
